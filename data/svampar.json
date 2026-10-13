@@ -1,0 +1,164 @@
+{
+    "svampar": [
+        {
+            "svenskt_namn": "Kantarell",
+            "latinskt_namn": "Cantharellus cibarius",
+            "beskrivning": "Äggullegul trattformad svamp med nedlöpande, gaffelgrenade åsar i stället för egentliga skivor. Växer i symbios med barr- och lövträd, vanlig i skogsmark från juli till oktober.",
+            "ätlig": "Ätlig – en av de mest uppskattade matsvamparna.",
+            "bild": "./kantarell.jpeg",
+            "fyndplats": "Uppvidinge kommun, Småland, Sverige"
+        },
+        {
+            "svenskt_namn": "Karljohansvamp",
+            "latinskt_namn": "Boletus edulis",
+            "beskrivning": "Kraftig svamp med brun, klibbig hatt och vit till ljusbrun fot med fina nätmönster. Köttet är vitt och färgar inte vid snitt. Växer i skog och hagmark, främst sensommar och höst.",
+            "ätlig": "Ätlig – ansedd som en av de bästa matsvamparna.",
+            "bild": "./karlJohan.jpeg",
+            "fyndplats": "Finnspångs kommun, Östergötland, Sverige"
+        },
+        {
+            "svenskt_namn": "Vit champinjon",
+            "latinskt_namn": "Agaricus bisporus",
+            "beskrivning": "Vanlig odlad matsvamp med vit till ljusbrun hatt och rosa till mörkbruna skivor. Finns både som vit och brun variant (portabello). Trivs på näringsrik mark och odlas året runt.",
+            "ätlig": "Ätlig – vanlig odlad matsvamp.",
+            "bild": "./vitChampinjon.jpeg",
+            "fyndplats": "Odlad i Sverige och internationellt"
+        },
+        {
+            "svenskt_namn": "Röd flugsvamp",
+            "latinskt_namn": "Amanita muscaria",
+            "beskrivning": "Iögonfallande svamp med röd hatt täckt av vita prickar och vit ring och strumpa på foten. Växer i symbios med björk och gran, vanlig i skogsmark.",
+            "ätlig": "Giftig – berusningsmedel, orsakar förgiftning; ej ätlig.",
+            "bild": "./RodFlugsvamp.jpeg",
+            "fyndplats": "Värnamo kommun, Småland, Sverige"
+        },
+        {
+            "svenskt_namn": "Lömsk flugsvamp",
+            "latinskt_namn": "Amanita virosa",
+            "beskrivning": "Helvit svamp med slät hatt, vit ring och en strumpa om foten. Kan förväxlas med champinjon eller andra vita svampar. Växer i skog, främst barrskog.",
+            "ätlig": "Dödligt giftig – en av de farligaste svamparna i Sverige; ej ätlig.",
+            "bild": "./lomskFlugsvamp.jpeg",
+            "fyndplats": "Gislaved kommun, Småland, Sverige"
+        },
+        {
+            "svenskt_namn": "Stenmurkla",
+            "latinskt_namn": "Gyromitra esculenta",
+            "beskrivning": "Svamp med oregelbunden, hjärnliknande hatt i brunt och gulbrunt, med ihålig fot. Växer tidigt på våren i sandig mark och barrskog.",
+            "ätlig": "Giftig – rå eller otillräckligt tillagad; ej ätlig.",
+            "bild": "./stenmurkla.jpeg",
+            "fyndplats": "Trosa kommun, Södermanland, Sverige"
+        },
+        {
+            "svenskt_namn": "Blek Taggsvamp",
+            "latinskt_namn": "Hydnum repandum",
+            "beskrivning": "Ljus, oregelbundet formad svamp med taggar i stället för skivor på undersidan. Fast, vitt kött med mild smak. Växer i skogsmark från augusti till oktober.",
+            "ätlig": "Ätlig – god matsvamp med fast konsistens.",
+            "bild": "./blekTaggsvamp.jpeg",
+            "fyndplats": "Ljusdals kommun, Hälsingland, Sverige"
+        },
+        {
+            "svenskt_namn": "Trattkantarell",
+            "latinskt_namn": "Craterellus tubaeformis",
+            "beskrivning": "Liten trattformad svamp, gråbrun till brun hatt med nedlöpande, grågula åsar och ihålig fot. Växer i fuktig barrskog och mossa, ofta sent på hösten.",
+            "ätlig": "Ätlig – omtyckt matsvamp.",
+            "bild": "./trattkantarell.jpeg",
+            "fyndplats": "Ljungby kommun, Småland, Sverige"
+        },
+        {
+            "svenskt_namn": "Ostronskivling",
+            "latinskt_namn": "Pleurotus ostreatus",
+            "beskrivning": "Skivling som växer i tuvor på död ved, med muslingskalformad hatt i grått till brunt och vita skivor. Vanlig i lövskog och odlas även kommersiellt.",
+            "ätlig": "Ätlig – uppskattad matsvamp.",
+            "bild": "./ostronskivling.jpeg",
+            "fyndplats": "Ystads kommun, Skåne, Sverige"
+        },
+        {
+            "svenskt_namn": "Granblodriska",
+            "latinskt_namn": "Lactarius deterrimus",
+            "beskrivning": "Blodriska med orange till morotsfärgad hatt som ofta har svagt zonerade ringar och grönfläckiga partier. Skivorna är orangegula och avger vid skada en starkt orange mjölksaft. Foten är fast, något kortare än hatten och blir grönfläckig med åldern. Växer i symbios med gran, vanlig i barrskog från augusti till oktober. Köttet är sprött och mjölksaften smakar svagt beskt men inte brännande.",
+            "ätlig": "Ätlig – god matsvamp. Ung svamp anses bäst; äldre blir grönfläckig och skör. Blodriskor av gran-typen är ätliga, men den snarlika blodriskan på tall är betydligt beskare och räknas som oätlig. Svampen bör tillagas väl, och mjölksaften kan missfärga andra råvaror i rätten.",
+            "bild": "./granblodriska.jpeg",
+            "fyndplats": "Älmhults kommun, Småland, Sverige"
+        },
+        {
+            "svenskt_namn": "Sandsopp",
+            "latinskt_namn": "Suillus variegatus",
+            "beskrivning": "Brun till gulbrun, filthårig hatt med små fjäll och gulaktiga porer på undersidan. Foten är fast och köttet färgas svagt blått vid snitt. Växer i sandig barrskog, oftast nära tall.",
+            "ätlig": "Ätlig – god matsvamp, men slemmig hatt bör tas bort.",
+            "bild": "./sandsopp.jpeg",
+            "fyndplats": "Hylte kommun, Halland, Sverige"
+        },
+        {
+            "svenskt_namn": "Smörsopp",
+            "latinskt_namn": "Suillus luteus",
+            "beskrivning": "Klibbig, brun hatt med vit till gul fot som har en tydlig ring. Porerna är gula och svampen är slemmig i fuktigt väder. Växer i symbios med tall i skogsmark och längs vägkanter.",
+            "ätlig": "Ätlig – uppskattad sopp, hattens slem skrapas bort.",
+            "bild": "./smorsopp.jpeg",
+            "fyndplats": "Växjö kommun, Småland, Sverige"
+        },
+        {
+            "svenskt_namn": "Rödgul trumpetsvamp",
+            "latinskt_namn": "Craterellus lutescens",
+            "beskrivning": "Trattformad svamp med rödgul till orangebrun ovansida och nedlöpande, ljusgula åsar. Foten är ihålig och svampen växer i fuktig mossa och skogsmark.",
+            "ätlig": "Ätlig – god matsvamp med mild smak.",
+            "bild": "./rodgulTrumpetsvamp.jpeg",
+            "fyndplats": "Markaryds kommun, Småland, Sverige"
+        },
+        {
+            "svenskt_namn": "Svart trumpetsvamp",
+            "latinskt_namn": "Craterellus cornucopioides",
+            "beskrivning": "Mörkt gråsvart till svart svamp formad som en tratt eller trumpet, med ihålig fot. Oftast slät utsida utan egentliga åsar. Växer i löv- och blandskog, främst på hösten.",
+            "ätlig": "Ätlig – mycket uppskattad matsvamp.",
+            "bild": "./svartTrumpetsvamp.jpeg",
+            "fyndplats": "Värnamo kommun, Småland, Sverige"
+        },
+        {
+            "svenskt_namn": "Ängschampinjon",
+            "latinskt_namn": "Agaricus campestris",
+            "beskrivning": "Vit till gråvit svamp med vit hatt och rosa skivor som mörknar med åldern. Foten har en tunn ring och köttet rodnar svagt vid snitt. Växer på öppen, gödslad mark och betesmark.",
+            "ätlig": "Ätlig – god matsvamp, men förväxlingsrisk med giftiga vita flugsvampar.",
+            "bild": "./angschampinjon.jpeg",
+            "fyndplats": "Hässleholms kommun, Skåne, Sverige"
+        },
+        {
+            "svenskt_namn": "Mörkringad flugsvamp",
+            "latinskt_namn": "Amanita porphyria",
+            "beskrivning": "Gråbrun svamp med slät hatt och gråviolett ring. Har en tydlig, säckliknande strumpa vid fotbasen. Växer i barr- och blandskog.",
+            "ätlig": "Giftig – orsakar magbesvär; ej ätlig.",
+            "bild": "./morkringadFlugsvamp.jpeg",
+            "fyndplats": "Oskarshamns kommun, Småland, Sverige"
+        },
+        {
+            "svenskt_namn": "Toppig giftspindling",
+            "latinskt_namn": "Cortinarius rubellus",
+            "beskrivning": "Rödbrun till orangebrun svamp med toppig hatt och hattformad, gulaktig ring på foten. Växer i fuktig barr- och mossmark. Kan lätt förväxlas med kantarell.",
+            "ätlig": "Dödligt giftig – njurskador; absolut ej ätlig.",
+            "bild": "./toppigGiftspindling.jpeg",
+            "fyndplats": "Älmhults kommun, Småland, Sverige"
+        },
+        {
+            "svenskt_namn": "Giftkremla",
+            "latinskt_namn": "Russula emetica",
+            "beskrivning": "Klarröd, slät hatt med vita skivor och vit, spröd fot. Smaken är skarpt bitter eller brännande. Växer i fuktig barr- och mossmark.",
+            "ätlig": "Giftig – framkallar kräkningar och magbesvär; ej ätlig.",
+            "bild": "./giftkremla.jpeg",
+            "fyndplats": "Ljungby kommun, Småland, Sverige"
+        },
+        {
+            "svenskt_namn": "Fårticka",
+            "latinskt_namn": "Albatrellus ovinus",
+            "beskrivning": "Kompakt, vit till gräddgul svamp med oregelbunden hatt och fina porer på undersidan. Växer i tuvor i barrskog, ofta på marken nära trädrötter.",
+            "ätlig": "Ätlig – fast matsvamp som lämpar sig bra för stuvning.",
+            "bild": "./farticka.jpeg",
+            "fyndplats": "Värnamo kommun, Småland, Sverige"
+        },
+        {
+            "svenskt_namn": "Blåmusseron",
+            "latinskt_namn": "Lepista nuda",
+            "beskrivning": "Blåviolett till lilafärgad svamp med tätt sittande skivor och kraftig fot. Färgen bleknar något med åldern. Växer i lövskog, trädgårdar och komposthögar, främst på hösten.",
+            "ätlig": "Ätlig – god matsvamp, men måste tillagas ordentligt.",
+            "bild": "./blamusseron.jpeg",
+            "fyndplats": "Hässleholms kommun, Skåne, Sverige"
+        }
+    ]
+}
