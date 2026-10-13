@@ -1,0 +1,102 @@
+{
+    "särskiljande_egenskaper": [
+        {
+            "par": "Kantarell (Cantharellus cibarius) vs. Toppig giftspindling (Cortinarius rubellus)",
+            "risk": "Dödligt giftig förväxling – njurskador.",
+            "särskiljande": [
+                "Undersidan: kantarellen har gaffelgrenade, nedlöpande åsar; giftspindlingen har egentliga skivor som möts i en tydlig klyfta mot foten.",
+                "Fot: kantarellen har massiv, köttig fot utan ring; giftspindlingen har en hattformad gulaktig ring (cortina) högt på foten.",
+                "Hatt: giftspindlingen har ofta en spetsig, toppig puckel – kantarellen är trattformad utan puckel.",
+                "Växtplats: giftspindlingen växer i fuktig mossmark med barrträd, kantarellen i vanlig skogsmark.",
+                "Osäkerhet: känner du inte igen undersidan säkert, lämna svampen."
+            ]
+        },
+        {
+            "par": "Vit champinjon / Ängschampinjon (Agaricus) vs. Lömsk flugsvamp (Amanita virosa)",
+            "risk": "Dödligt giftig förväxling.",
+            "särskiljande": [
+                "Skivor: champinjonen har rosa skivor som mörknar till chokladbruna; lömsk flugsvamp har alltid vita skivor.",
+                "Fotbasen: gräv upp svampen – flugsvampen har en säckliknande strumpa (volva) nere i marken; champinjonen har ingen.",
+                "Doft: champinjonen doftar mandel eller svamp; flugsvampen har svag, sötaktig obehaglig doft.",
+                "Färg: champinjonens kött rodnar eller gulnar vid snitt; flugsvampen förblir helvit.",
+                "Regel: champinjoner ska aldrig plockas för konsumtion utan att hela foten grävts fram."
+            ]
+        },
+        {
+            "par": "Karljohansvamp (Boletus edulis) vs. Gallsopp (Tylopilus felleus)",
+            "risk": "Oätlig, skarpt bitter – förstör maträtten men inte farlig.",
+            "särskiljande": [
+                "Porer: karljohansvampen har vita till gulvita porer; gallsoppen har rosatonade till mörkt rosa porer.",
+                "Smak: gallsoppen är extremt bitter – tugga en liten bit och spotta ut om du är osäker.",
+                "Fot: karljohansvampen har fint vitaktigt nätmönster; gallsoppens nätmönster är grovt och mörkbrunt.",
+                "Hatt: gallsoppens hatt är ofta mörkare brun och något sammetsluden."
+            ]
+        },
+        {
+            "par": "Sandsopp / Smörsopp (Suillus) vs. andra soppar",
+            "risk": "Låg – av samma kök skördas dessa vanligen säkert.",
+            "särskiljande": [
+                "Hatt: Suillus-hattarna är slemmiga eller klibbiga i fuktigt väder, övriga soppar är torra.",
+                "Porer: gula, ganska stora porer; flera arter färgas svagt blå vid snitt.",
+                "Ring: smörsoppen har tydlig ring på foten, sandsoppen oftast ingen.",
+                "Värdträd: växer nästan alltid med tall – inte med lövträd."
+            ]
+        },
+        {
+            "par": "Fårticka (Albatrellus ovinus) vs. övriga tickor",
+            "risk": "Låg – men flera tickor är oätliga eller hårda.",
+            "särskiljande": [
+                "Växtsätt: fårtickan växer på marken ur markmycel, inte direkt på död ved.",
+                "Porer: mycket fina, vitaktiga porer på undersidan; köttet är vitt och fast, ej träigt.",
+                "Hatt: vit till gräddgul, ofta flikig eller sammanväxt i tuvor."
+            ]
+        },
+        {
+            "par": "Blåmusseron (Lepista nuda) vs. blåvioletta slöjkrympingar (Cortinarius-släktet)",
+            "risk": "Allvarlig – flera blåvioletta spindlingar är giftiga.",
+            "särskiljande": [
+                "Spårpulver: blåmusseronen har rosa spårpulver; spindlingarna har rostbrunt spårpulver – lägg hatten på vitt papper över natten.",
+                "Skivor: blåmusseronens skivor sitter tätt och är djupt urnupna kring foten; spindlingarna har cortina (spindelvävsliknande ring) i ungt tillstånd.",
+                "Fot: spindlingarna har ofta en tydlig, hattformad ring.",
+                "Doft: blåmusseronen doftar starkt aromatiskt eller parfymerat."
+            ]
+        },
+        {
+            "par": "Stenmurkla (Gyromitra esculenta) vs. äkta murkla (Morchella)",
+            "risk": "Stenmurkla är giftig – äkta murkla är en uppskattad matsvamp.",
+            "särskiljande": [
+                "Hatten: stenmurklans hatt är hjärnliknande och oregelbundet veckad; äkta murklans hatt är bikakemönstrad med tydliga gropar och åsar.",
+                "Fot: stenmurklan har kort, ihålig, köttig fot; äkta murklan har längre fot, ofta ihålig hela vägen.",
+                "Färg: stenmurklan är rödbrun till mörkbrun; äkta murklan är ljusare gulbrun till gråbrun.",
+                "Tid: bägge är vårsvampar, men stenmurklan kommer ofta först."
+            ]
+        },
+        {
+            "par": "Giftkremla (Russula emetica) vs. matkremlor",
+            "risk": "Magbesvär – kräkningar.",
+            "särskiljande": [
+                "Smak: giftkremlan är brännande skarp eller bitter – tugga en liten bit och spotta ut; ätliga kremlor är milda.",
+                "Fot: giftkremlan har vit, spröd fot; flera matkremlor har färgad fot.",
+                "Färg: klarröd hatt med rent vita skivor – men flera milda röda kremlor finns, så smakprovet är avgörande."
+            ]
+        },
+        {
+            "par": "Röd flugsvamp (Amanita muscaria) vs. andra flugsvampar",
+            "risk": "Giftig – berusningsmedel.",
+            "särskiljande": [
+                "Hatt: röd med vita vårtor eller fjäll – de flesta ätliga flugsvampar är gröna, bruna eller grå.",
+                "Fot: vit ring och en strumpa vid basen.",
+                "Regel: alla flugsvampar (Amanita) med ring och strumpa bör lämnas – nästan alla svenska amanitor är oätliga eller giftiga."
+            ]
+        },
+        {
+            "par": "Trattkantarell (Craterellus tubaeformis) vs. giftspindlingar",
+            "risk": "Dödligt giftig förväxling finns beskriven men är mindre vanlig.",
+            "särskiljande": [
+                "Undersidan: trattkantarellen har grågula, nedlöpande åsar; spindlingarna har bruna skivor och rostbrunt spårpulver.",
+                "Fot: trattkantarellens fot är ihålig och gulorange; spindlingens fot är massiv med cortina.",
+                "Växtplats: trattkantarellen växer i mossa i fuktig barrskog, ofta i stora grupper."
+            ]
+        }
+    ]
+}
