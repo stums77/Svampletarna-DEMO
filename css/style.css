@@ -1,0 +1,181 @@
+/* Färgschema */
+:root {
+    --beige: #e6dccb;
+    --terracotta: #c47457;
+    --sageGreen: #9c9e80;
+    --ochre: #b68036;
+    --oliveGreen: #605f4b;
+    --darkBrown: #3b2c24;
+    --darkGray: #2a2a2a;
+}
+
+/* Grundinställningar */
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0 auto;
+    max-width: 1000px;
+    background-color: var(--beige);
+    color: var(--darkGray);
+    font-family: Arial, sans-serif;
+}
+
+/* Header med skogsbakgrund */
+header {
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("../images/forest.jpg.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+/* Sidans titel */
+header h1 {
+    color: var(--beige);
+    background-color: var(--darkBrown);
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+/* Skapar mellanrum runt navigationen */
+nav {
+    padding: 0 clamp(15px, 5vw, 60px);
+}
+
+/* Navigation för mobil */
+nav ul {
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    flex: 1;
+}
+
+nav a {
+    display: block;
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+    background-color: var(--sageGreen);
+    color: var(--darkBrown);
+    border: 1px solid var(--darkBrown);
+    font-weight: bold;
+}
+
+/* Visar tydligt vilket menyval som är markerat */
+nav a:hover,
+nav a:focus-visible {
+    background-color: var(--ochre);
+}
+
+
+/* Huvudinnehåll */
+main {
+    padding: 30px clamp(15px, 5vw, 60px);
+}
+
+/* Inledning på alla sidor */
+.intro {
+    text-align: center;
+    max-width: 700px;
+    margin: 0 auto 30px;
+    background-color: var(--terracotta);
+    border: 2px solid var(--darkBrown);
+    border-radius: 8px;
+    padding: 20px;
+}
+
+/* Svampförteckning för mobil */
+#shroomlist {
+    display: grid;
+    gap: 20px;
+}
+
+/* Svampkort */
+#shroomlist article {
+    background-color: var(--sageGreen);
+    border: 2px solid var(--darkBrown);
+    border-radius: 8px;
+    padding: 20px;
+}
+
+/* Bilder i svampkorten */
+#shroomlist img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+/* Förväxlingsbara svampar för mobil */
+#differenceList {
+    display: grid;
+    gap: 20px;
+    align-items: start;
+}
+
+/* Klickbara svampkort */
+#differenceList details {
+    background-color: var(--sageGreen);
+    border: 2px solid var(--darkBrown);
+    border-radius: 8px;
+    padding: 20px;
+}
+
+/* Rubrik som går att klicka på */
+#differenceList summary {
+    font-weight: bold;
+    cursor: pointer;
+}
+
+/* Svampkort på Mina svampar */
+.myMushroom article {
+    background-color: var(--sageGreen);
+    border: 2px solid var(--darkBrown);
+    border-radius: 8px;
+    padding: 20px;
+}
+
+/* Mellanrum mellan svampkorten */
+.myMushroom {
+    margin-bottom: 20px;
+}
+
+/* Sidfot på alla sidor */
+footer {
+    background-color: var(--oliveGreen);
+    color: var(--beige);
+    text-align: center;
+    padding: 20px;
+}
+
+footer p {
+    margin: 0;
+}
+
+
+
+/* Navigation för desktop */
+@media (min-width: 768px) {
+    nav ul {
+        flex-direction: row;
+    }
+
+    /* Två svampkort bredvid varandra */
+    #shroomlist {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    /* Två kolumner på förväxlingssidan */
+    #differenceList {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+}
