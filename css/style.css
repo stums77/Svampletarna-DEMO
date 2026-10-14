@@ -38,7 +38,7 @@ header {
 /* Sidans titel */
 header h1 {
     color: var(--beige);
-    background-color: var(--darkBrown);
+    background-color: rgba(59, 44, 36, 0.8);
     padding: 10px 20px;
     border-radius: 5px;
 }
@@ -172,8 +172,9 @@ footer p {
     
 }
 
-/* Knappar för Lägg till och Rensa listan */
+/* Knappar för Lägg till, Ta bort och Rensa listan */
 #shroomlist button,
+#myShroomList button,
 #clearButton {
     background-color: var(--beige);
     color: var(--darkBrown);
@@ -186,6 +187,7 @@ footer p {
 
 /* Ändrar färg när muspekaren är över knappen */
 #shroomlist button:hover:not(:disabled),
+#myShroomList button:hover,
 #clearButton:hover {
     background-color: var(--ochre);
 }
