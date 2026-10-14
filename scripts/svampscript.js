@@ -147,4 +147,3 @@ function showMyShrooms(myShrooms) {
         myListRef.appendChild(articleElement); //lägger till tidigare skapad article i myListRef
     });
 }
-
