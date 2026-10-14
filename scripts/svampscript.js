@@ -143,7 +143,31 @@ function showMyShrooms(myShrooms) {
 
         element = createElement("p", svamp.fyndplats);
         articleElement.appendChild(element);
+
+        const button = document.createElement("button"); //skapar en button.
+        button.textContent = "Ta bort";
+        button.type = "button";
+
+        button.addEventListener("click", function() { //knappens funktion.
+            removeShroom(svamp); //Funktion som tar bort svamp från myShrooms och uppdaterar localStorage
+        });
+
+        articleElement.appendChild(button);
         
         myListRef.appendChild(articleElement); //lägger till tidigare skapad article i myListRef
     });
 }
+//////////////////////////////////////////////////////////////////////////
+//Funktion som tar bort svamp från myShrooms och uppdaterar localStorage//
+//////////////////////////////////////////////////////////////////////////
+function removeShroom(svamp) { //Funktion som tar bort svamp från myShrooms och uppdaterar localStorage
+    myShrooms = myShrooms.filter(function(shroom) { //går igenom myShrooms och tar bort svampen som matchar svamp.svenskt_namn
+        return shroom.svenskt_namn !== svamp.svenskt_namn;
+    });
+
+    localStorage.setItem("myShrooms", JSON.stringify(myShrooms)); //Uppdaterar localStorage
+
+    myListRef.innerHTML = ""; //Tömmer listan innan den uppdateras
+    showMyShrooms(myShrooms); //Uppdaterar listan med de kvarvarande svamparna
+}
+
