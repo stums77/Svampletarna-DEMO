@@ -10,7 +10,7 @@ function init(){
     sectionRef = document.getElementById("shroomlist");
     myListRef = document.getElementById("myShroomList");
     if(sectionRef){
-        //funktion exekveras bara om id="slist" finns på HTML-sidan.
+        //funktion exekveras bara om id="shroomlist" finns på HTML-sidan.
         fetchData();
     }
 
