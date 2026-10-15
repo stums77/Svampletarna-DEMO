@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>forvaxling</title>
+    <title>Förväxlingssvampar</title>
     <link rel="stylesheet" href="../css/style.css">
-    <script src="../scripts/script.js" defer></script>
+    <script src="../scripts/forvaxling.js" defer></script>
 </head>
 <body>
     <header>
@@ -15,20 +15,24 @@
         <ul>
             <li><a href="../index.html">Startsida</a></li> <!-- ../ används för att ta sig ur mappen-->
             <li><a href="./svampar.html">Svampförteckning</a></li>
-            <li><a href="./forvaxling.html">Förväxlings svampar</a></li>
+            <li><a href="./forvaxling.html">Förväxlingssvampar</a></li>
             <li><a href="./minasvampar.html">Mina svampar</a></li>
         </ul>
     </nav>
     <main>
         <section class="intro">
             <article>
-                <h2>Förväxlingsbara svampar</h2>
-                <p>Här är en lista över svampar som kan förväxlas med varandra.</p>
+                <h2>Förväxlingssvampar</h2>
+                <p>Här finner du en lista med vanligt förekommande förväxlingsbara svampar, såväl farliga som ofarliga.</p>
+                <p>Tryck på valda svampar för mer detaljerad information.</p>
             </article>
         </section>
+        
+        <section id="differenceList">
+            
+            <!-- Här visas svamparna från JSON-filen -->
 
-        <!-- Här visas svamparna från JSON-filen -->
-        <section id="differenceList"></section>
+        </section>
     </main>
     <footer>
         <p>&copy;Svampletarna 2026</p>

@@ -1,12 +1,14 @@
 <!DOCTYPE html>
 <html lang="sv">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>minasvampar</title>
+    <title>Mina svampar</title>
     <link rel="stylesheet" href="../css/style.css">
     <script src="../scripts/svampscript.js" defer></script>
 </head>
+
 <body>
     <header>
         <h1>Svampletarna</h1>
@@ -15,7 +17,7 @@
         <ul>
             <li><a href="../index.html">Startsida</a></li> <!-- ../ används för att ta sig ur mappen-->
             <li><a href="./svampar.html">Svampförteckning</a></li>
-            <li><a href="./forvaxling.html">Förväxlings svampar</a></li>
+            <li><a href="./forvaxling.html">Förväxlingssvampar</a></li>
             <li><a href="./minasvampar.html">Mina svampar</a></li>
         </ul>
     </nav>
@@ -23,10 +25,12 @@
         <section class="intro">
             <article>
                 <h2>Mina svampar</h2>
-                <p>Här är en lista över dina svampar.</p>
+                <p>Här listas dina sparade svampar.</p>
+                <p>För att ta bort en svamp letar du upp svampen i listan och trycker på "Ta bort". Vill du istället ta
+                    bort alla svampar från listan trycker du på "Rensa listan".</p>
                 <button id="clearButton">Rensa listan</button>
             </article>
-        </section>   
+        </section>
         <section id="myShroomList"> <!--Svamplista UNIKT för denna sidan pga JS-funktion -->
 
             <!--Här kommer min svamplista att skrivas ut-->
@@ -37,4 +41,5 @@
         <p>&copy;Svampletarna 2026</p>
     </footer>
 </body>
+
 </html>
