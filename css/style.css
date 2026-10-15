@@ -47,6 +47,7 @@ header h1 {
 nav {
     padding: 0 clamp(15px, 5vw, 60px);
     margin-top: 20px;
+    
 }
 
 /* Navigation för mobil */
@@ -57,10 +58,12 @@ nav ul {
     list-style: none;
     margin: 0;
     padding: 0;
+    
 }
 
 nav li {
     flex: 1;
+    
 }
 
 nav a {
@@ -73,6 +76,7 @@ nav a {
     border: 2px solid var(--darkBrown);
     border-radius: 8px;
     font-weight: bold;
+    color: black;
 }
 
 /* Visar tydligt vilket menyval som är markerat */
@@ -96,6 +100,7 @@ main {
     border: 2px solid var(--darkBrown);
     border-radius: 8px;
     padding: 20px;
+    color: black;
 }
 
 /* Svamplistor för mobil */
@@ -164,12 +169,11 @@ footer {
     border: 2px solid var(--darkBrown);
     border-radius: 8px;
     padding: 20px;
-    
 }
 
 footer p {
     margin: 0;
-    
+    font-size: 1.2rem;
 }
 
 /* Knappar för Lägg till, Ta bort och Rensa listan */

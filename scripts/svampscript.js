@@ -1,3 +1,6 @@
+
+//Scriptet innehåller funktionaliteten för sidorna "svampförteckning" och "mina svampar".
+
 let sectionRef; //Referens till sektionen som ska innehålla svamplistan
 let myListRef; //Referens till sektionen som ska innehålla "min lista"
 
@@ -54,7 +57,7 @@ function createElement(element, text){
 //////////////////////////////////////////////////////
 //Skapar en button som kan lägga till svampar i array//
 //////////////////////////////////////////////////////
-function createButton(svamp){ //var tvungen att lägga in svamp i funktionen för att kunna använda den i knappen.
+function createButton(svamp){ //tar emot argumentet svamp från creatArticles-funktionen.
     const button = document.createElement("button"); //skapar en button.
     button.textContent = "Lägg till";
     button.type = "button";
